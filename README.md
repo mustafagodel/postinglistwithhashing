@@ -13,6 +13,6 @@ In order to avoid collision, you may use a long array. For conflict resolution, 
 or quadratic probing. 
 You may assume that there are only 10 files (1.txt, 2.txt, …, 10.txt). Each file includes a paragraph, in 
 which, words have been separated by space.
-Example;
+Example;<img width="701" alt="Ekran Resmi 2022-01-05 17 54 29 kopyası" src="https://user-images.githubusercontent.com/89693873/148238706-265cf4dd-1356-475d-be01-11ac19501306.png">
 
-<img width="701" alt="açıkama src="https://user-images.githubusercontent.com/89693873/148238609-d48d076a-ccd5-47f9-b90a-35958b76f9e0.png">
+
